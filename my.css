@@ -1,0 +1,9 @@
+ girdi-boyut{
+     width:auto;
+    max-width:200px;
+    min-width:100px;
+    
+}
+.img_back{
+	background-image: url("6.jpg");
+}
